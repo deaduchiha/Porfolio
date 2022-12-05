@@ -73,7 +73,7 @@ const Header = () => {
             </a>
           </div>
           <button>
-            <span>lets connect</span>
+            <span>Let's Conncet</span>
           </button>
         </span>
       </Container>
